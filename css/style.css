@@ -242,8 +242,8 @@ body {
   left: -45%;
   height: 440px;
   width: 440px;
-  -webkit-mask-image: linear-gradient(to bottom, #000 40%, transparent 100%);
-  mask-image: linear-gradient(to bottom, #000 40%, transparent 100%);
+  -webkit-mask-image: linear-gradient(135deg, #000 20%, transparent 100%);
+  mask-image: linear-gradient(135deg, #000 20%, transparent 100%);
 }
 .hero_content .hero_blob svg {
   width: 100%;
@@ -258,12 +258,12 @@ body {
   }
 }
 .hero_content span {
-  font-size: 24px;
-  font-family: "Poppins", sans-serif;
-  color: #2D4839;
+  font-size: 28px;
+  font-family: "Caveat";
+  color: #587854;
   position: relative;
   display: block;
-  margin: 0 0 20px 30px;
+  margin: 0 0 20px 0px;
 }
 @media (max-width: 991px) {
   .hero_content span {
@@ -271,14 +271,7 @@ body {
   }
 }
 .hero_content span::before {
-  position: absolute;
-  content: "";
-  height: 2px;
-  width: 20px;
-  top: 50%;
-  left: -20px;
-  transform: translateX(-50%);
-  background: #2D4839;
+  display: none;
 }
 .hero_content h1 {
   margin: 0 0 30px 0;
@@ -287,13 +280,13 @@ body {
   font-optical-sizing: auto;
   font-weight: 600; /* Bold 700 per il grassetto */
   font-style: normal;
-  color: #2D4839;
+  color: #426E55;
   line-height: 40px;
 }
 .hero_content p {
   margin: 0 0 50px 0;
   font-family: "Poppins", sans-serif;
-  color: #2D4839;
+  color: #4A4A4A;
   font-size: 18px;
   line-height: 30px;
 }
@@ -302,7 +295,7 @@ body {
   padding: 20px 50px;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
-  background: #426E55;
+  background: #73986F;
   border-radius: 7px;
   color: #ffffff;
   text-decoration: none;
@@ -311,7 +304,7 @@ body {
   transform: scale(1);
 }
 .hero_content a:hover {
-  background: #2D4839;
+  background: 	#426E55;
   box-shadow: none;
   transform: scale(1.03);
 }
@@ -468,11 +461,11 @@ body {
 .about_header h1 {
   margin: 0 0 0 0; /* diminuito lo spazio sotto l'header 1 */
   font-size: 32px;
-  font-family: "Playpen Sans Thai", cursive;
+  font-family: "Yeseva One", cursive;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  color: #2D4839;
+  color: #426E55;
   line-height: 40px;
 }
 .about_header p {
@@ -530,7 +523,7 @@ body {
 .about_content-inner {
   width: 55%;
   padding: 60px 50px;
-  background: #2D4839;
+  background: #426E55;
   border-radius: 20px;
   margin-left: -60px;
   position: relative;
@@ -571,10 +564,12 @@ body {
 .about_content-inner h3 {
   margin: 0 0 35px 0;
   color: #fff;
-  font-family: "Playpen Sans Thai", cursive;
+  font-family: "Yeseva One", cursive;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
+  font-size: 20px; /* dimensione ridotta */
+  line-height: 1.3;
 }
 .about_content-inner p {
   margin: 0 0 35px 0;
@@ -639,19 +634,19 @@ body {
   z-index: -1;
   width: 61%;
 }
-.service__background svg {
-  width: 100%;
-  height: 100%;
-}
 .service__background_shape {
   position: absolute;
   bottom: -10%;
   left: -7%;
   height: 465px;
   width: 410px;
+  background: #EBF0EB;
 }
 .service__background_shape svg {
   width: 100%;
+}
+.service__background_shape svg path {
+  fill: #EBF0EB;
 }
 @media (max-width: 991px) {
   .service__background_shape {
@@ -676,7 +671,7 @@ body {
 .service__header span {
   font-size: 20px;
   font-family: "Poppins", sans-serif;
-  color: #2D4839;
+  color: #426E55;
   position: relative;
   display: block;
   margin: 0 0 20px 30px;
@@ -689,13 +684,13 @@ body {
   top: 50%;
   left: -20px;
   transform: translateX(-50%);
-  background: #2D4839;
+  background: #426E55;
 }
 .service__header h1 {
   margin: 0 0 30px 0;
   font-size: 50px;
   font-family: "Yeseva One", cursive;
-  color: #2D4839;
+  color: #426E55;
   line-height: 50px;
 }
 @media (max-width: 767px) {
@@ -733,15 +728,23 @@ body {
   bottom: 0;
   z-index: 1;
 }
+.service__slider_item .icon img {
+  max-width: 120px;
+  max-height: 120px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 .service__slider_item h4 {
   font-size: 24px;
   font-family: "Yeseva One", cursive;
-  color: #2D4839;
+  color: #426E55;
   margin: 40px 0 30px 0;
 }
 .service__slider_item p {
   font-family: "Poppins", sans-serif;
-  color: #7E7E8A;
+  color: #4A4A4A;
   font-size: 16px;
   line-height: 30px;
   margin: 0;
@@ -979,7 +982,7 @@ body {
   }
 }
 .resume__background {
-  background: #2D4839;
+  background: #426E55;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -1021,7 +1024,7 @@ body {
   margin: 0 0 30px 0;
   line-height: 50px;
   font-size: 55px;
-  font-family: "Playpen Sans Thai", cursive;
+  font-family: "Yeseva One", cursive;
   font-optical-sizing: auto;
   font-weight: 600; /* Bold 700 per il grassetto */
   font-style: normal;
@@ -1050,8 +1053,8 @@ body {
   padding: 15px 40px;
   text-decoration: none;
   display: block;
-  background: #fff;
-  color: #2D4839;
+  background: #2D4939;
+  color: #FAF9F6;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   transition: all 0.3s ease;
@@ -1062,17 +1065,17 @@ body {
   }
 }
 .resume__heading ul li a:hover {
-  background: #2D4839;
-  color: #fff;
+  background: #1c2c23;
+  color: #FAF9F6;
   box-shadow: none;
 }
 .resume__heading ul li a.active {
-  background: #426E55;
-  color: #fff;
+  background: #315336;
+  color: #FAF9F6;
   box-shadow: none;
 }
 .resume__heading ul li a.active:hover {
-  background: #2D4839;
+  background: #1c2c23;
 }
 .resume__heading ul li:nth-child(1) a {
   border-radius: 7px 0 0 7px;
@@ -1084,7 +1087,7 @@ body {
   border-radius: 0 7px 7px 0;
 }
 .resume__education_item {
-  background: #fff;
+  background: #FAF9F6;
   padding: 30px;
   border-radius: 20px;
   margin-bottom: 30px;
@@ -1656,7 +1659,7 @@ body {
   }
 }
 .contact__cta {
-  background: #426E55;
+  background: #73986F;
   padding: 100px 80px;
   border-radius: 20px;
   display: flex;
@@ -1777,7 +1780,7 @@ body {
   }
 }
 .contact__cta_action a:hover {
-  background: #768bf3;
+  background: #2D4939;
   color: #fff;
 }
 .contact__widget {
@@ -2612,27 +2615,27 @@ body {
   padding: 10px 30px;
   font-size: 14px;
   font-family: "Poppins", sans-serif;
-  color: #2D4839;
+  color: #426E55;
 }
 .contact-form-input .form-group .form-control::-moz-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #2D4839;
+  color: #426E55;
 }
 .contact-form-input .form-group .form-control:-ms-input-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #2D4839;
+  color: #426E55;
 }
 .contact-form-input .form-group .form-control::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #2D4839;
+  color: #426E55;
 }
 .contact-form-input .form-group .form-control:-ms-input-placeholder {
   /* Internet Explorer 10-11 */
-  color: #2D4839;
+  color: #426E55;
 }
 .contact-form-input .form-group .form-control::-ms-input-placeholder {
   /* Microsoft Edge */
-  color: #2D4839;
+  color: #426E55;
 }
 .contact-form-input .form-group .form-control:focus {
   outline: 0;
@@ -2681,7 +2684,7 @@ body {
   left: 7px;
   width: 6px;
   height: 12px;
-  border: solid #0079bf;
+  border: solid #2D4939;
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
@@ -2690,7 +2693,7 @@ body {
   display: inline-block;
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  background: #426E55;
+  background: #73986F;
   border-radius: 7px;
   color: #fff;
   transition: all 0.3s ease;
