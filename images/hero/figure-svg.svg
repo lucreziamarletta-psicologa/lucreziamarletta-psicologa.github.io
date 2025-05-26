@@ -1,0 +1,141 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201 201" width="201" height="201">
+	<title>figure-svg</title>
+	<style>
+		.s0 { fill: #282f49 } 
+	</style>
+	<filter id="f0">
+		<feFlood flood-color="#5c826b" flood-opacity="1" />
+		<feBlend mode="normal" in2="SourceGraphic"/>
+		<feComposite in2="SourceAlpha" operator="in" />
+	</filter>
+	<g id="Group_1168" filter="url(#f0)">
+		<path id="Rectangle_2206" fill-rule="evenodd" class="s0" d="m7 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2271" fill-rule="evenodd" class="s0" d="m7 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2238" fill-rule="evenodd" class="s0" d="m7 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2278" fill-rule="evenodd" class="s0" d="m7 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2222" fill-rule="evenodd" class="s0" d="m7 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2272" fill-rule="evenodd" class="s0" d="m7 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2241" fill-rule="evenodd" class="s0" d="m7 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2288" fill-rule="evenodd" class="s0" d="m7 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2214" fill-rule="evenodd" class="s0" d="m115 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2289" fill-rule="evenodd" class="s0" d="m115 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2256" fill-rule="evenodd" class="s0" d="m115 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2290" fill-rule="evenodd" class="s0" d="m115 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2231" fill-rule="evenodd" class="s0" d="m115 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2291" fill-rule="evenodd" class="s0" d="m115 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2257" fill-rule="evenodd" class="s0" d="m115 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2292" fill-rule="evenodd" class="s0" d="m115 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2210" fill-rule="evenodd" class="s0" d="m61 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2279" fill-rule="evenodd" class="s0" d="m61 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2248" fill-rule="evenodd" class="s0" d="m61 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2280" fill-rule="evenodd" class="s0" d="m61 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2226" fill-rule="evenodd" class="s0" d="m61 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2281" fill-rule="evenodd" class="s0" d="m61 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2249" fill-rule="evenodd" class="s0" d="m61 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2293" fill-rule="evenodd" class="s0" d="m61 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2219" fill-rule="evenodd" class="s0" d="m169 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2310" fill-rule="evenodd" class="s0" d="m169 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2262" fill-rule="evenodd" class="s0" d="m169 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2311" fill-rule="evenodd" class="s0" d="m169 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2232" fill-rule="evenodd" class="s0" d="m169 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2312" fill-rule="evenodd" class="s0" d="m169 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2263" fill-rule="evenodd" class="s0" d="m169 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2313" fill-rule="evenodd" class="s0" d="m169 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2209" fill-rule="evenodd" class="s0" d="m34 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2273" fill-rule="evenodd" class="s0" d="m34 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2242" fill-rule="evenodd" class="s0" d="m34 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2282" fill-rule="evenodd" class="s0" d="m34 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2223" fill-rule="evenodd" class="s0" d="m34 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2274" fill-rule="evenodd" class="s0" d="m34 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2243" fill-rule="evenodd" class="s0" d="m34 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2294" fill-rule="evenodd" class="s0" d="m34 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2217" fill-rule="evenodd" class="s0" d="m142 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2314" fill-rule="evenodd" class="s0" d="m142 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2258" fill-rule="evenodd" class="s0" d="m142 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2315" fill-rule="evenodd" class="s0" d="m142 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2233" fill-rule="evenodd" class="s0" d="m142 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2316" fill-rule="evenodd" class="s0" d="m142 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2259" fill-rule="evenodd" class="s0" d="m142 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2317" fill-rule="evenodd" class="s0" d="m142 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2211" fill-rule="evenodd" class="s0" d="m88 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2295" fill-rule="evenodd" class="s0" d="m88 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2250" fill-rule="evenodd" class="s0" d="m88 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2296" fill-rule="evenodd" class="s0" d="m88 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2227" fill-rule="evenodd" class="s0" d="m88 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2297" fill-rule="evenodd" class="s0" d="m88 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2251" fill-rule="evenodd" class="s0" d="m88 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2298" fill-rule="evenodd" class="s0" d="m88 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2221" fill-rule="evenodd" class="s0" d="m196 1v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2318" fill-rule="evenodd" class="s0" d="m196 109v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2264" fill-rule="evenodd" class="s0" d="m196 55v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2319" fill-rule="evenodd" class="s0" d="m196 163v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2236" fill-rule="evenodd" class="s0" d="m196 28v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2320" fill-rule="evenodd" class="s0" d="m196 136v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2265" fill-rule="evenodd" class="s0" d="m196 82v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2321" fill-rule="evenodd" class="s0" d="m196 190v10c0 0.6-0.4 1-1 1-0.6 0-1-0.4-1-1v-10c0-0.6 0.4-1 1-1 0.6 0 1 0.4 1 1z"/>
+		<path id="Rectangle_2207" fill-rule="evenodd" class="s0" d="m11 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2270" fill-rule="evenodd" class="s0" d="m11 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2239" fill-rule="evenodd" class="s0" d="m11 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2283" fill-rule="evenodd" class="s0" d="m11 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2224" fill-rule="evenodd" class="s0" d="m11 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2275" fill-rule="evenodd" class="s0" d="m11 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2244" fill-rule="evenodd" class="s0" d="m11 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2299" fill-rule="evenodd" class="s0" d="m11 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2215" fill-rule="evenodd" class="s0" d="m119 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2300" fill-rule="evenodd" class="s0" d="m119 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2252" fill-rule="evenodd" class="s0" d="m119 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2301" fill-rule="evenodd" class="s0" d="m119 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2228" fill-rule="evenodd" class="s0" d="m119 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2302" fill-rule="evenodd" class="s0" d="m119 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2253" fill-rule="evenodd" class="s0" d="m119 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2303" fill-rule="evenodd" class="s0" d="m119 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2212" fill-rule="evenodd" class="s0" d="m65 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2284" fill-rule="evenodd" class="s0" d="m65 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2245" fill-rule="evenodd" class="s0" d="m65 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2285" fill-rule="evenodd" class="s0" d="m65 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2229" fill-rule="evenodd" class="s0" d="m65 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2286" fill-rule="evenodd" class="s0" d="m65 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2246" fill-rule="evenodd" class="s0" d="m65 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2304" fill-rule="evenodd" class="s0" d="m65 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2218" fill-rule="evenodd" class="s0" d="m173 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2322" fill-rule="evenodd" class="s0" d="m173 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2266" fill-rule="evenodd" class="s0" d="m173 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2323" fill-rule="evenodd" class="s0" d="m173 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2234" fill-rule="evenodd" class="s0" d="m173 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2324" fill-rule="evenodd" class="s0" d="m173 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2267" fill-rule="evenodd" class="s0" d="m173 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2325" fill-rule="evenodd" class="s0" d="m173 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2208" fill-rule="evenodd" class="s0" d="m38 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2276" fill-rule="evenodd" class="s0" d="m38 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2240" fill-rule="evenodd" class="s0" d="m38 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2287" fill-rule="evenodd" class="s0" d="m38 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2225" fill-rule="evenodd" class="s0" d="m38 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2277" fill-rule="evenodd" class="s0" d="m38 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2247" fill-rule="evenodd" class="s0" d="m38 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2305" fill-rule="evenodd" class="s0" d="m38 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2216" fill-rule="evenodd" class="s0" d="m146 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2326" fill-rule="evenodd" class="s0" d="m146 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2260" fill-rule="evenodd" class="s0" d="m146 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2327" fill-rule="evenodd" class="s0" d="m146 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2235" fill-rule="evenodd" class="s0" d="m146 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2328" fill-rule="evenodd" class="s0" d="m146 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2261" fill-rule="evenodd" class="s0" d="m146 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2329" fill-rule="evenodd" class="s0" d="m146 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2213" fill-rule="evenodd" class="s0" d="m92 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2306" fill-rule="evenodd" class="s0" d="m92 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2254" fill-rule="evenodd" class="s0" d="m92 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2307" fill-rule="evenodd" class="s0" d="m92 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2230" fill-rule="evenodd" class="s0" d="m92 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2308" fill-rule="evenodd" class="s0" d="m92 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2255" fill-rule="evenodd" class="s0" d="m92 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2309" fill-rule="evenodd" class="s0" d="m92 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2220" fill-rule="evenodd" class="s0" d="m200 7h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2330" fill-rule="evenodd" class="s0" d="m200 115h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2268" fill-rule="evenodd" class="s0" d="m200 61h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2331" fill-rule="evenodd" class="s0" d="m200 169h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2237" fill-rule="evenodd" class="s0" d="m200 34h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2332" fill-rule="evenodd" class="s0" d="m200 142h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2269" fill-rule="evenodd" class="s0" d="m200 88h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+		<path id="Rectangle_2333" fill-rule="evenodd" class="s0" d="m200 196h-10c-0.6 0-1-0.4-1-1 0-0.6 0.4-1 1-1h10c0.6 0 1 0.4 1 1 0 0.6-0.4 1-1 1z"/>
+	</g>
+</svg>
