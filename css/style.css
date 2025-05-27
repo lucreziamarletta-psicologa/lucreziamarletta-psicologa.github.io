@@ -261,7 +261,7 @@ body {
 }
 
 .hero_content .hero_blob svg path {
-  fill: #e8a6d7a1;
+  fill: #f98bdc;
   
   /* Animazione del path per effetto bolla */
   animation: blobBreathe 11s ease-in-out infinite;
