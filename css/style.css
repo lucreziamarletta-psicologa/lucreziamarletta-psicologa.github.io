@@ -769,7 +769,7 @@ body {
 }
 
 .service__background_shape svg path {
-  fill: #e8a6d7a1;
+  fill: #f2a7de;
 
   /* Animazione path */
   animation: blobBreathe 11s ease-in-out infinite;
