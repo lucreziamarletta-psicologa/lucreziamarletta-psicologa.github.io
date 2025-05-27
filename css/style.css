@@ -110,7 +110,7 @@ body {
   }
 }
 .navbar .main-navigation {
-  margin: 0 auto;
+  margin-left: auto;
 }
 .navbar .main-navigation .nav-item .nav-link {
   color: #2D4839;
