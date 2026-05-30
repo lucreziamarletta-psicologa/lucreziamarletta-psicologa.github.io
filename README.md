@@ -1,11 +1,35 @@
-# Dott.ssa Lucrezia Marletta - Sito Web
+# Sito Web – Dott.ssa Lucrezia Marletta
 
-Questo repository ospita il codice del sito web ufficiale della Dott.ssa **Lucrezia Marletta**, psicologa e psicoterapeuta in formazione, dedicato alla presentazione dei servizi psicologici offerti e alla prenotazione online degli appuntamenti.
+Sito web ufficiale della **Dott.ssa Lucrezia Marletta**, psicologa clinica specializzata in psicologia dell'emergenza e del trauma, psicoterapeuta in formazione a Catania.
 
-## Contribuire
+🔗 [lucreziamarletta-psicologa.github.io](https://lucreziamarletta-psicologa.github.io)
 
-Pull requests e segnalazioni di bug sono benvenute! Per modifiche maggiori, apri prima un issue per discutere ciò che vorresti cambiare.
+## Funzionalità
+
+- **Curriculum** con tre sezioni tab: Formazione, Esperienze, Pubblicazioni
+- **Servizi Psicologici** in griglia 3×3 responsive
+- **Recensioni dei pazienti** con carosello marquee ad animazione infinita
+- **Sezione contatti** con link a social, WhatsApp e iscrizione all'albo
+- **Pattern decorativi** con simbolo ψ disposto a forma di ψ
+
+## Tecnologie
+
+- HTML5 / CSS3
+- JavaScript (jQuery, Bootstrap 4, TweenMax)
+- GitHub Pages per il deploy
+
+## Sviluppo locale
+
+```bash
+npx live-server
+```
+
+## Contributori
+
+- **Lucrezia Marletta** – contenuti e testi
+- **[Mirko Casu](https://mirkocasu.github.io/)** – web design e direzione creativa
+- **[Claude](https://claude.ai)** (Anthropic) – sviluppo tecnico e implementazione
 
 ## Licenza
 
-MIT © 2025 Dott.ssa Lucrezia Marletta
+MIT © 2026 Dott.ssa Lucrezia Marletta
