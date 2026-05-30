@@ -445,8 +445,8 @@ body {
   width: 100%;
 }
 .hero_figure img.hero_mask_svg {
-  -webkit-mask: url("../images/hero/hero-mask-svg.png");
-          mask: url("../images/hero/hero-mask-svg.png");
+  -webkit-mask: url("../images/hero/hero-mask-svg.webp");
+          mask: url("../images/hero/hero-mask-svg.webp");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: contain;
   -webkit-mask-position: center center;
@@ -2335,8 +2335,8 @@ body {
 }
 .section .singleBlog__content .blog-section img {
   float: right;
-  -webkit-mask: url("../images/hero/hero-mask-svg.png");
-          mask: url("../images/hero/hero-mask-svg.png");
+  -webkit-mask: url("../images/hero/hero-mask-svg.webp");
+          mask: url("../images/hero/hero-mask-svg.webp");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: contain;
   -webkit-mask-position: center center;
