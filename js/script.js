@@ -21,10 +21,24 @@ $(document).ready(function(){
     $(".navbar-collapse").collapse("hide");
   });
 
-  // Duplicate reviews track for seamless infinite marquee
+  // Marquee recensioni: misura → duplica → avvia con offset pixel esatto
   (function(){
     var t = document.getElementById("reviewsTrack");
-    if(t){ t.innerHTML = t.innerHTML + t.innerHTML; }
+    if(!t) return;
+    // Misura la larghezza di un set PRIMA di duplicare
+    var singleW = t.scrollWidth;
+    t.innerHTML = t.innerHTML + t.innerHTML;
+    // Distanza di scroll = larghezza un set + un gap (24px) tra i due set
+    var dist = singleW + 24;
+    // Inietta i keyframes e l'animazione DOPO la duplicazione
+    requestAnimationFrame(function(){
+      var s = document.createElement("style");
+      s.textContent =
+        "@keyframes reviews-scroll{0%{transform:translateX(0)}100%{transform:translateX(-" + dist + "px)}}" +
+        ".reviews-track{animation:reviews-scroll 55s linear infinite}" +
+        "@media(hover:hover){.reviews-track:hover{animation-play-state:paused}}";
+      document.head.appendChild(s);
+    });
   })();
 
   // Blob animation

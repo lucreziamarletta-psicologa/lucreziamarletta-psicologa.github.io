@@ -3151,14 +3151,7 @@ body {
   display: flex;
   gap: 24px;
   width: max-content;
-  animation: reviews-scroll 55s linear infinite;
-}
-.reviews-track:hover {
-  animation-play-state: paused;
-}
-@keyframes reviews-scroll {
-  0%   { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  /* animation injected da JS dopo la duplicazione, per calcolo pixel esatto */
 }
 .reviews-card {
   width: 340px;
